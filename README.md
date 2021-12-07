@@ -77,3 +77,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 8-Git checkout -b rama-heroes Crea una rama para no hacerlo en el Master
 9-Git branch veo master y ramas
 10-Git checkout master
+11-Git merge rama-heroes Actualiza desde una rama al master
+12-Git branch -d rama-heroes Borra la rama heroes
+13
