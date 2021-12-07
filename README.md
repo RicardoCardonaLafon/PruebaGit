@@ -67,16 +67,17 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Comandos útiles de Git
 
-1.Git init
-2.Git add . agrega al área de envío o Stagning Area
-3.Git reset . borra area para envío
-4.Git commit -m "Primer Commit"
-5.Git checkout -- .
-6.Git log
-7.Git commit --amend Modifica el último commit. i para editar luego ESC :wq!
-8.Git checkout -b rama-heroes Crea una rama para no hacerlo en el Master
-9.Git branch veo master y ramas
-10.Git checkout master
-11.Git merge rama-heroes Actualiza desde una rama al master
-12.Git branch -d rama-heroes Borra la rama heroes
-13.Git push Sube cambios al repositorio
+1. Git init
+2. Git add . agrega al área de envío o Stagning Area
+3. Git reset . borra area para envío
+4. Git commit -m "Primer Commit"
+5. Git checkout -- .
+6. Git log
+7. Git commit --amend Modifica el último commit. i para editar luego ESC :wq!
+8. Git checkout -b rama-heroes Crea una rama para no hacerlo en el Master
+9. Git branch veo master y ramas
+10. Git checkout master
+11. Git merge rama-heroes Actualiza desde una rama al master
+12. Git branch -d rama-heroes Borra la rama heroes
+13. Git push Sube cambios al repositorio
+14. Git commit -am "Git Agregado"
