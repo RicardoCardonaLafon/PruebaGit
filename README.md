@@ -75,3 +75,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 6-Git log
 7-Git commit --amend Modifica el último commit. i para editar luego ESC :wq!
 8-Git checkout -b rama-heroes Crea una rama para no hacerlo en el Master
+9-Git branch veo master y ramas
