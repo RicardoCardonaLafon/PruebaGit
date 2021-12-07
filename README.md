@@ -72,3 +72,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 3-Git reset . borra area para envío
 4-Git commit -m "Primer Commit"
 5-Git checkout -- .
+6-Git log
+7-Git commit --amend Modifica el último commit. i para editar luego ESC :wq!
+8-Git checkout -b rama-heroes Crea una rama para no hacerlo en el Master
