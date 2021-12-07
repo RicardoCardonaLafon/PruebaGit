@@ -68,6 +68,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Comandos útiles de Git
 
 1-Git init
-2-Git add .
-3-Git commit
-4-
+2-Git add . agrega al área de envío o Stagning Area
+3-Git reset . borra area para envío
+4-Git commit -m "Primer Commit"
+5-Git checkout -- .
